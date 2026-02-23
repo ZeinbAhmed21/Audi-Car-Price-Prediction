@@ -157,6 +157,6 @@ regression-audi-prices/
 
 ---
 
-## 👤 Authors
+## 🤝 Contributors
 - Zeinab Ahmed
 - Ibrahim Hamdy
